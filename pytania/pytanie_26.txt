@@ -1,0 +1,2 @@
+﻿Czy skontrolowałeś/(aś) temperaturę układu napędowego drona i ogólny stan jego konstrukcji?
+(tak/nie)

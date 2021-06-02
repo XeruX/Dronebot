@@ -1,0 +1,7 @@
+﻿Okej.
+Jesteś przygotowany/(a) do wykonania operacji lotniczej.
+Pamiętaj, żeby zachować stałą kontrolę nad poprawnością wykonywania operacji lotniczej.
+Dbaj o bezpieczeństwo.
+
+Czy będziesz chciał/(a) wspólnie ze mną sprawdzić wszystkie niezbędne czynności po locie?
+Jeśli tak to w odpowiedzi wpisz (tak), w przeciwnym przypadku wpisz (nie).

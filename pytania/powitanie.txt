@@ -1,0 +1,8 @@
+﻿Cześć, jestem DroneBot!
+Twój osobisty przewodnik po procedurach wykonywania operacji lotniczych.
+
+Jak już zapewne wiesz korzystanie z przestrzeni powietrznej jest niezwykle odpowiedzialne i należy się odpowiednio do tego przygotować.
+Rozmowa ze mną nie będzie trudna, ale wolałbym żebyś odpowiadał/(a) wg mojej instrukcji, którą będę Ci na bieżąco podawać.
+
+Możemy zaczynać?
+(tak/nie)

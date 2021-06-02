@@ -1,0 +1,5 @@
+﻿Okej! Wygląda na to, że Twój dron i jego niezbędne wyposażenie są w porządku.
+Sprawdzamy dalej.
+
+Czy dokonałeś/(aś) kontroli przestrzeni powietrznej w miejscu i na trasie planowanej operacji lotniczej?
+(tak/nie)

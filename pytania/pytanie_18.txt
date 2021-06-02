@@ -1,0 +1,2 @@
+﻿Czy dokonałeś przedstartowej kontroli Twojego drona?
+(tak/nie)

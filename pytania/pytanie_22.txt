@@ -1,0 +1,2 @@
+﻿Czy wykonałeś/(aś) start kontrolny, aby potwierdzić zdalność statku powietrznego?
+(tak/nie)

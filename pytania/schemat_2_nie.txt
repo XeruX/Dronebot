@@ -1,0 +1,3 @@
+﻿To najpierw upewnij się, że element o który pytam jest sprawny, aby móc bezpiecznie wykonywać lot.
+Jesteś w stanie usprawnić go teraz?
+Udziel proszę odpowiedzi (tak) lub (nie).

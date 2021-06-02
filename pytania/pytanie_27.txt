@@ -1,0 +1,2 @@
+﻿Czy wyłączyłeś/(aś) stację bazową?
+(tak/nie)

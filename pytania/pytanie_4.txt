@@ -1,0 +1,7 @@
+﻿Teraz sprawdzimy czy Twój dron jest odpowiednio przygotowany do lotu.
+Będę Tobie wymieniać elementy i pytać o ich stan.
+Proszę Cię udzielaj odpowiedzi (tak) lub (nie).
+
+To zaczynamy!
+
+Czy stacja bazowa jest sprawna? (tak/nie)

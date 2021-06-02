@@ -1,0 +1,1 @@
+Czy gimbal w Twoim BSP jest sprawny? (tak/nie)

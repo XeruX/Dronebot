@@ -1,0 +1,22 @@
+﻿W takim razie spróbuję wytłumaczyć jeszcze raz.
+Podam Ci pewne zagrożenie - dla przykładu niech to będzie coś nie związanego z naszą operacją np. ryzyko upadko ze schodów.
+Najpierw proszę Cię o określenie jego prawdopodobieństwa w skali 1-5, gdzie:
+
+1 - bardzo niskie,
+2 - niskie,
+3 - średnie,
+4 - wysokie,
+5 - bardzo wysokie.
+
+Przykładowo podasz mi odpowiedź nr 2.
+Później ja pytam Cię w jakiej skali ocenasz dotkliwość przy wystąpieniu tego ryzyka, również w skali 1-5, gdzie:
+
+1 - bardzo mała,
+2 - mała,
+3 - umiarkowana,
+4 - wysoka,
+5 - bardzo wysoka.
+
+Znów przykładowo podajesz mi odpowiedź nr 5.
+Ja oszacowuję ogólny poziom ryzyka.
+Jeśli ryzyko będzie podwyższone to Cię o tym poinformuję, a w pewnych przypadkach nawet będę namawiać do zaniechania czynności lotniczych.

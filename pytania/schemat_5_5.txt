@@ -1,0 +1,3 @@
+﻿Ryzyko jest wysokie!
+Czy możesz zastosować jakiekolwiek czynności ograniczające ryzyko?
+Proszę o krótką odpowiedź (tak lub nie)

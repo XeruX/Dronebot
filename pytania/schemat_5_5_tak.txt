@@ -1,0 +1,3 @@
+﻿Jeśli tak to wykonaj je.
+Daj mi znać gdy będziesz gotowy/(a) przejść dalej, poprzez wpisanie "tak".
+Jeśli chcesz zrezygnować wpisz "nie".

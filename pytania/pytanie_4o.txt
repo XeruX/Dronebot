@@ -1,0 +1,1 @@
+Czy Twój dron poprawnie reaguje na komendy z nadajnika? (tak/nie)

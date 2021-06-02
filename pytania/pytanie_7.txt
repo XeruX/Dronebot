@@ -1,0 +1,21 @@
+﻿Teraz wykonamy analizę ryzyka Twojej operacji.
+Będę podawać Ci dane ryzyko i pytać w jakiej skali (1-5) oceniasz jego prawdopodobieństwo, gdzie:
+
+1 - bardzo niskie,
+2 - niskie,
+3 - średnie,
+4 - wysokie,
+5 - bardzo wysokie,
+
+a następnie dotkliwość przy wystąpieniu tego ryzyka w skali 1-5, gdzie:
+
+1 - bardzo mała,
+2 - mała,
+3 - umiarkowana,
+4 - wysoka,
+5 - bardzo wysoka.
+
+Po twojej ocenie oszacuję stopień danego ryzyka i podpowiem czy możesz coś zrobić aby je zminimalizować.
+
+Czy wszystko jasne i możemy zacząć?
+(tak/nie)

@@ -1,0 +1,2 @@
+﻿Czy na pewno wyłączyłeś/(aś) drona i silniki?
+(tak/nie)
